@@ -181,26 +181,7 @@
                   action="action_binary_city_client"
                   sequence="41"/>
 
-                <!-- <menuitem name="Cash Advance"
-                  id="menu_cash_advance"
-                  parent="menu_finance_request_root"
-                  action="action_cash_advance"
-                  sequence="40"/>
-
-        <menuitem name="Expense Reporting"
-                  id="menu_expense_reporting"
-                  parent="menu_finance_request_root"
-                  sequence="60"/> 
-
-        <menuitem name="Travel Authorization/Mileage Claim"
-                  id="menu_travel_auth_milage"
-                  parent="menu_finance_request_root"
-                  sequence="80"/>
-
-        <menuitem name="Salary Advance"
-                  id="menu_salary_advance"
-                  parent="menu_finance_request_root"
-                  sequence="100"/>-->
+              
 
     </data>
 </odoo> 
